@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vayola Pradeep
 - 👀 I’m interested in coding, programming, web development
-- 🌱 I’m currently learning python
+<!--- 🌱 I’m currently learning python -->
 - 💞️ I’m looking to collaborate on ...
 
 - 📫 How to reach me **vayolapradeep001@gmail.com**
