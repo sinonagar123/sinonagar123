@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Vayola Pradeep
-- 👀 I’m interested in coding, programming, web development
-- 🌱 I’m currently learning python 
+![banner]
+(https://github.com/sinonagar123/sinonagar123/assets/102567147/caedc6a4-7cfa-41b3-a8b3-67c61a0121d5)
 <!-- 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me **vayolapradeep001@gmail.com**
-[
-](https://github.com/sinonagar123/sinonagar123/assets/102567147/caedc6a4-7cfa-41b3-a8b3-67c61a0121d5)<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/vayolapradeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vayolapradeep" height="30" width="40" /></a>
 <a href="https://dev.to/vayolapradeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vayolapradeep" height="30" width="40" /></a>
