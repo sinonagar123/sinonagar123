@@ -1,5 +1,5 @@
 
-![banner](https://github.com/sinonagar123/html_css_projects/assets/102567147/caedc6a4-7cfa-41b3-a8b3-67c61a0121d5)
+![banner](https://github.com/sinonagar123/html_css_projects/assets/102567147/e514e907-3c1a-422b-a891-27658cf62549)
 <!-- 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me **vayolapradeep001@gmail.com**
 
