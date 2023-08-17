@@ -1,5 +1,5 @@
 
-![banner](https://github.com/sinonagar123/html_css_projects/assets/102567147/e514e907-3c1a-422b-a891-27658cf62549)
+![WhatsApp Image 2023-08-16 at 4 18 48 PM](https://github.com/sinonagar123/sinonagar123/assets/102567147/9a30858c-6f10-487e-a65f-2a8fae7c8ac0)
 <!-- 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me **vayolapradeep001@gmail.com**
 
