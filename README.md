@@ -1,5 +1,6 @@
 
-![WhatsApp Image 2023-08-16 at 4 18 48 PM](https://github.com/sinonagar123/sinonagar123/assets/102567147/9a30858c-6f10-487e-a65f-2a8fae7c8ac0)
+![WhatsApp Image 2023-08-22 at 3 42 35 PM](https://github.com/sinonagar123/sinonagar123/assets/102567147/337c9b59-8a56-4e9e-ba1d-7e88b714587b)
+
 <!-- 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me **vayolapradeep001@gmail.com**
 
